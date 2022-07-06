@@ -1,0 +1,9 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.Banner-Top{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url(Picture/Banner-pic/banner.jpg);
+}
